@@ -52,11 +52,11 @@ deleteBulkRows(smartsheetClient, options)
 The function takes two arguments, your Smartsheet client object and an options object.
 
 ## smartsheetClient
----
+
 This module is used alongside the Smartsheet Javascript SDK. Pass in your current Smartsheet client object for use in the requests.
 
 ## options
----
+
 **options.sheetId**
 
 The id of the sheet you are deleting rows from
