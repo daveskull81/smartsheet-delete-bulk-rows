@@ -67,5 +67,5 @@ The id of the column to look for that will have the value to decide if the row i
 
 **options.deleteValue**
 
-The value that should be matched to determine that a row should be deleted.
+The value to search for in the sheet. A match determines that a row should be deleted.
 
