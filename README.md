@@ -22,7 +22,7 @@ When a parent row (a row with at least one other row indented under it) in Smart
 
 ## Installation
 ```
-not yet published to npm
+npm install smartsheet-delete-bulk-rows
 ```
 
 ## Usage
