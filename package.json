@@ -1,0 +1,24 @@
+{
+  "name": "smartsheet-delete-bulk-rows",
+  "version": "0.0.1",
+  "description": "Delete large groups of rows from a sheet based on a given value being found in the row",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daveskull81/smartsheet-delete-bulk-rows.git"
+  },
+  "keywords": [
+    "smartsheet",
+    "delete",
+    "rows"
+  ],
+  "author": "dAVE Inden",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/daveskull81/smartsheet-delete-bulk-rows/issues"
+  },
+  "homepage": "https://github.com/daveskull81/smartsheet-delete-bulk-rows#readme"
+}
